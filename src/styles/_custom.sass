@@ -2,18 +2,252 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 15%
+    left: -100%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 4.5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 12%
+    right: 10%
+  &-3
+    animation: float1 5.5s ease-in-out infinite alternate
+    position: absolute
+    top: 70%
+    right: 3%
 
 @keyframes float1
   0%
-    transform: translateY(20px)
-
+    transform: translateY(30px)
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(30px)
+  100%
+    transform: translateX(0px)
+  
+.banner-principal
+  .tarjeta
+    background-position: left
+  .banner-principal__row
+    .banner-principal__info
+      .banner-principal__accion
+        a span, a i
+          color: $white !important
+  @media (max-width: 991px)
+    .tarjeta
+      background-size: auto
+      background-position: bottom left
+    .banner-principal__row
+      .banner-principal__info
+        padding-right: 3rem
+      
+.banner-principal__row .banner-principal__img
+  width: 20%
+  left: -45px
+  @media (max-width: $bp-max-md)
+    left: 0px
+  
+.titulo-principal.color-acento-contenido .titulo-principal__numero span, .linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  color: $black
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img01.png") !important
+
+.bloque-texto-g.color-primario
+  background-color: #FFF1AE
+
+.cajon-b.color-acento-botones:before
+  background-color: #DEE9F0
+
+.cajon-b.color-acento-contenido:before
+  background-color: #FFEDC5
+
+.cajon-b.color-acento-contenido:before, .cajon-b.color-acento-botones:before
+  bottom: 0
+  right: 72%
+
+.bloque-texto-d.color-primario:before
+  background-color: #FFF7D0
+  left: 50%
+
+.bloque-texto-c.color-acento-botones
+  background-color: #EAEEF1
+
+.tarjeta--boton.color-acento-botones:hover
+  background-color: #DEE9F0
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+  background-color: #FFF5C5
+
+.BG01
+  background: linear-gradient(to right, #fff, #FFF8E2)
+
+.BG02, .BGR02A
+  background-color: #F6F6F6
+
+.BGR02A.acordion__activo
+  background-color: #E8E8E8
+
+.BGR03
+  background-color: #D9D9D9
+
+.BG04A, .BG04B
+  background-color: #FEF7F1
+
+.BGR05, .BGR05A, .BGR05B, .BGR05C, .tarjeta--boton.color-acento-botones
+  background-color: #FFF5C5
+
+.BG06
+  background-color: $black
+
+.BGR07
+  background-color: #FEE3C0
+
+.BG08
+  background-color: #31313C
+
+.BG09
+  background-color: #FBAB42
+
+.bloque-texto-d i
+  font-size: 2em
+
+.BGR02A, .BGIMG02, .BGR03, .BGR05, .BGR05A, .BGR05B, .BGR05C, .BG06, .BGR07
+  border-radius: 10px
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  border-radius: 5px 5px 0 0
+
+.linea-tiempo-d__item__content__slot
+  border-radius: 0 0 5px 5px
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BGIMG02
+  background-image: url("../assets/curso/fondos/img02.png")
+
+.BGIMG03
+  background-image: url("../assets/curso/fondos/img03.png")
+
+.BGIMG01, .BGIMG02, .BGIMG03
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGIMG01, .BGIMG03
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.img01
+  position: relative
+  top: -18px
+  @media (max-width: $bp-max-xl)
+    top: -16px
+  @media (max-width: $bp-max-lg)
+    top: -14px
+  @media (max-width: $bp-max-md)
+    top: -20px
+  @media (max-width: $bp-max-sm)
+    top: -16px
+  @media (max-width: $bp-max-xs)
+    top: -14px
+  
+.img02
+  position: relative
+  right: -50px
+
+.img03
+  position: relative
+  left: -50px
+  @media (max-width: $bp-max-md)
+    left: -30px
+  
+.BG04A
+  height: 232px
+  @media (max-width: $bp-max-xl)
+    height: 244px
+  @media (max-width: $bp-max-lg)
+    height: 238px
+  @media (max-width: $bp-max-md)
+    height: 100%
+  
+.BG04B
+  height: 410px
+  @media (max-width: $bp-max-xl)
+    height: 446px
+  @media (max-width: $bp-max-lg)
+    height: 512px
+  @media (max-width: $bp-max-md)
+    height: 100%
+  
+.BGR05
+  height: 411px
+  @media (max-width: $bp-max-xl)
+    height: 406px
+  @media (max-width: $bp-max-lg)
+    height: 385px
+  @media (max-width: $bp-max-md)
+    height: 100%
+  
+.BGR05B
+  height: 329px
+  @media (max-width: $bp-max-xl)
+    height: 324px
+  @media (max-width: $bp-max-lg)
+    height: 343px
+  @media (max-width: $bp-max-md)
+    height: 100%
+  
+.BGR05C
+  height: 346px
+  @media (max-width: $bp-max-xl)
+    height: 342px
+  @media (max-width: $bp-max-lg)
+    height: 334px
+  @media (max-width: $bp-max-md)
+    height: 100%
+  
+.tarjeta--boton.color-acento-botones
+  height: 181px
+  @media (max-width: $bp-max-xl)
+    height: 163px
+  @media (max-width: $bp-max-lg)
+    height: 189px
+  @media (max-width: $bp-max-md)
+    height: 162px
+  @media (max-width: $bp-max-sm)
+    height: 186px
+  @media (max-width: $bp-max-xs)
+    height: 176px
+  
+.BG08, .BG09
+  @media (max-width: $bp-max-xl)
+    height: 120px
+  @media (max-width: $bp-max-md)
+    height: initial
+
+.slyder-a__bullets__item--active
+  background-color: $black !important
+
+.slyder-a__bullets__item
+  background-color: #A5947D
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #F4F4F5
+  @media (max-width: $bp-max-xs)
+    width: 25px
+    height: 25px
+  
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    width: 7px
+    height: 7px
+    margin: 0 5px
+  
+.inv01.cajon-b.color-acento-botones:before
+  left: 77%
+  right: 0
