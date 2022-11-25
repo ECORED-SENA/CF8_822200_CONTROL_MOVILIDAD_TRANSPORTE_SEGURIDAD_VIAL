@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Técnicas de valoración
+      h1 Técnicas atención primeros auxilios
     
     .cajon-b.color-acento-contenido.mb-5(data-aos="flip-up")
       .row.align-items-center
@@ -202,7 +202,7 @@
             | Abrir las vías respiratorias a través de respiración boca a boca o de boca a nariz.
           li
             <i class="fas fa-check" style="color:#FD9827"></i>
-            | Reanudar las compresiones del tórax para continuar el impulso de sangre a los órganos
+            | Reanudar las compresiones del tórax para continuar el impulso de sangre a los órganos.
 
     .row.align-items-center.img03.mb-4(data-aos="fade-right")
       .col-lg-1.col-2.img02
@@ -247,10 +247,10 @@
             p.mb-0 Se utiliza para inmovilizaciones a nivel de Columna con el inmovilizador de Kendrick, este también permite inmovilizar pacientes que se encuentren atrapados, se inmoviliza el cuerpo con tres cintas a la altura del tórax y la cabeza.
           .BGR07.p-3(x="82.8%" y="27.5%" numero="+")
             .h5.mb-2 Inmovilizador de cabeza
-            p.mb-0 es complemento al collarín y a la camilla, para que se dé la #[b inmovilización cervical] total en pacientes con sospecha de traumatismo craneoencefálico o cervical. Primero se coloca el collarín y luego la base del inmovilizador sobre la base de la cabeza de la camilla, fijándola con el velcro.
+            p.mb-0 Es complemento al collarín y a la camilla, para que se dé la #[b inmovilización cervical] total en pacientes con sospecha de traumatismo craneoencefálico o cervical. Primero se coloca el collarín y luego la base del inmovilizador sobre la base de la cabeza de la camilla, fijándola con el velcro.
           .BGR07.p-3(x="88.6%" y="55.3%" numero="+")
             .h5.mb-2 Inmovilización con collarín cervical
-            p.mb-0 antes de colocarlo se debe descartar lesiones a nivel de cuello, luego se debe colocar la columna vertebral recta, sujetar manera firma la cabeza del paciente y fijar el collarín con las sujeciones, tratando que no quede suelto.
+            p.mb-0 Antes de colocarlo se debe descartar lesiones a nivel de cuello, luego se debe colocar la columna vertebral recta, sujetar manera firma la cabeza del paciente y fijar el collarín con las sujeciones, tratando que no quede suelto.
           .BGR07.p-3(x="47.6%" y="87%" numero="+")
             .h5.mb-2 Inmovilización de extremidades
             p.mb-0 Se da en casos de fractura de extremidades para no complicar la condición del miembro afectado, para esto se debe cortar la ropa de la zona, se despeja totalmente y se selecciona la férula adecuada en cada caso.
@@ -264,10 +264,10 @@
             p.mb-0 Se utiliza para inmovilizaciones a nivel de Columna con el inmovilizador de Kendrick, este también permite inmovilizar pacientes que se encuentren atrapados, se inmoviliza el cuerpo con tres cintas a la altura del tórax y la cabeza.
           .BGR07.p-3(x="81.7%" y="21.7%" numero="+")
             .h5.mb-2 Inmovilizador de cabeza
-            p.mb-0 es complemento al collarín y a la camilla, para que se dé la #[b inmovilización cervical] total en pacientes con sospecha de traumatismo craneoencefálico o cervical. Primero se coloca el collarín y luego la base del inmovilizador sobre la base de la cabeza de la camilla, fijándola con el velcro.
+            p.mb-0 Es complemento al collarín y a la camilla, para que se dé la #[b inmovilización cervical] total en pacientes con sospecha de traumatismo craneoencefálico o cervical. Primero se coloca el collarín y luego la base del inmovilizador sobre la base de la cabeza de la camilla, fijándola con el velcro.
           .BGR07.p-3(x="92.5%" y="42.4%" numero="+")
             .h5.mb-2 Inmovilización con collarín cervical
-            p.mb-0 antes de colocarlo se debe descartar lesiones a nivel de cuello, luego se debe colocar la columna vertebral recta, sujetar manera firma la cabeza del paciente y fijar el collarín con las sujeciones, tratando que no quede suelto.
+            p.mb-0 Antes de colocarlo se debe descartar lesiones a nivel de cuello, luego se debe colocar la columna vertebral recta, sujetar manera firma la cabeza del paciente y fijar el collarín con las sujeciones, tratando que no quede suelto.
           .BGR07.p-3(x="24%" y="68.5%" numero="+")
             .h5.mb-2 Inmovilización de extremidades
             p.mb-0 Se da en casos de fractura de extremidades para no complicar la condición del miembro afectado, para esto se debe cortar la ropa de la zona, se despeja totalmente y se selecciona la férula adecuada en cada caso.

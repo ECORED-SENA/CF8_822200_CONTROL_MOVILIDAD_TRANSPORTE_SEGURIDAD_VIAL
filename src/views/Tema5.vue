@@ -52,10 +52,10 @@
         ul.lista-ul--color
           li
             <i class="fas fa-check" style="color:#FD9827"></i>
-            | Late rápidamente produce taquicardia, 
+            | Late rápidamente produce taquicardia.
           li
             <i class="fas fa-check" style="color:#FD9827"></i>
-            | Cuando late lentamente se genera una bradicardia o 
+            | Cuando late lentamente se genera una bradicardia.
           li
             <i class="fas fa-check" style="color:#FD9827"></i>
             | Simplemente puede latir de manera irregular, estos cambios en la frecuencia de los latidos pueden generar una arritmia cardiaca.
@@ -215,10 +215,10 @@
             .col.p-4
               .h4 ¡Importante!
               p Generalmente el tensiómetro (aparato que mide la presión arterial) muestra primero la presión sistólica (número mayor) y luego la presión diastólica (número menor), así: #[b 90/60], lo cual quiere decir:
-              p que la #[b presión sistólica] es de 90 y la #[b presión diastólica] es de 60.
-              p.mb-0 una presión arterial mayor a estos rangos puede generar factores de riesgo y por eso es importante consultar al profesional de la salud.
+              p Que la #[b presión sistólica] es de 90 y la #[b presión diastólica] es de 60.
+              p.mb-0 Una presión arterial mayor a estos rangos puede generar factores de riesgo y por eso es importante consultar al profesional de la salud.
 
-    p Si se dispone del equipo para tomar la tensión arterial, se debe anotar la tensión del lesionado y hacer tres tomas para verificar los valores. El rango normal es 90/60 mm Hg hasta 120/80 mm Hg (milímetros de mercurio)
+    p Si se dispone del equipo para tomar la tensión arterial, se debe anotar la tensión del lesionado y hacer tres tomas para verificar los valores. El rango normal es 90/60 mm Hg hasta 120/80 mm Hg (milímetros de mercurio).
 
     .row.align-items-center.img03.mb-4(data-aos="fade-right")
       .col-lg-1.col-2.img02
@@ -235,7 +235,7 @@
               img(src="@/assets/curso/temas/img02.svg")
             .col.p-4
               .h4 ¡Importante!
-              p Si las pupilas están muy dilatadas el lesionado puede estar presentando shock o una hemorragia severa y si las pupilas no están de igual tamaño puede indicar una parálisis o una herida en la cabeza.
+              p Si las pupilas están muy dilatadas el lesionado puede estar presentando #[em shock] o una hemorragia severa y si las pupilas no están de igual tamaño puede indicar una parálisis o una herida en la cabeza.
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema5/img15.png")
 

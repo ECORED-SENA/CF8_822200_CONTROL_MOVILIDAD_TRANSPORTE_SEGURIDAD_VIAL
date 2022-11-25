@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Fundamentos Legales en primeros auxilios
+      h1 Fundamentos legales en primeros auxilios
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
@@ -202,7 +202,7 @@
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src="@/assets/curso/tema1/img09.png")
       .col-lg-6(data-aos="fade-left")
-        p Pero a pesar que el Estado Colombiano había legislado ya sobre la protección de las víctimas, a través de la Ley 600 de 2000, que fue el anterior Código de Procedimiento Penal, este último les daba a estas personas una pequeña participación en el proceso para lograr legalmente algún reconocimiento o reparación a sus perjuicios, es de aclarar que había mucha reglamentación, pero no se podría aplicar.
+        p Pero a pesar que el Estado Colombiano había legislado ya sobre la protección de las víctimas, a través de la Ley 599 de 2000, que fue el anterior Código de Procedimiento Penal, este último les daba a estas personas una pequeña participación en el proceso para lograr legalmente algún reconocimiento o reparación a sus perjuicios, es de aclarar que había mucha reglamentación, pero no se podría aplicar.
         p.mb-0 Con la entrada en vigencia del Código de Procedimiento Penal a través de la Ley 906 de 2004, para las víctimas en su proceso legal, se debe garantizar que obtengan los tres derechos que son: <span style="background-color:#FFF6E9; padding: 2px">#[b la verdad, la justicia y la reparación]</span>; este último se está hasta ahora dando de una manera creciente y real En la siguiente tabla se presentan las principales diferencias entre los dos códigos.
 
     .row.justify-content-center.mb-4
@@ -243,7 +243,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         p Es muy importante resaltar que al entrar el Nuevo Código de Procedimiento Penal con la Ley 906 de 2004, expuesto en el punto anterior, las víctimas ya no son solo la parte civil en procesos para exigir se aplique la ley para resarcir estos perjuicios, sino que los amparan los tres derechos descritos: el derecho a la verdad, el derecho a la justicia y el derecho a la reparación.  
-        p.mb-0 Es por esto que hay que diferenciar la Ley 600 de 2000 y la Ley 906 de 2004, correspondientes a  los códigos de procedimiento penal,, pues si se realiza una comparación, se puede demostrar la mejora en el último código pues solo satisface a uno de los tres derechos que es la verdad, dejando descubiertos los otros dos, ya que el afectado o víctima se presentaba como parte civil y tenía la responsabilidad de aportar elementos para encontrar la verdad, aportar pruebas o en caso de no contar con los mecanismos,  solicitando las mismas, teniendo en cuenta que  si no estaba de acuerdo se podía llegar a una segunda instancia.
+        p.mb-0 Es por esto que hay que diferenciar la Ley 599 de 2000 y la Ley 906 de 2004, correspondientes a  los códigos de procedimiento penal,, pues si se realiza una comparación, se puede demostrar la mejora en el último código pues solo satisface a uno de los tres derechos que es la verdad, dejando descubiertos los otros dos, ya que el afectado o víctima se presentaba como parte civil y tenía la responsabilidad de aportar elementos para encontrar la verdad, aportar pruebas o en caso de no contar con los mecanismos,  solicitando las mismas, teniendo en cuenta que  si no estaba de acuerdo se podía llegar a una segunda instancia.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img12.png")
 
@@ -286,7 +286,7 @@
                     ul.lista-ul--color
                       li
                         <i class="fas fa-circle" style="color:#FD9827; font-size: x-small"></i> 
-                        | Ley 600 de 2000
+                        | Ley 599 de 2000
                   .col-5.mb-4
                     a.boton.color-acento-botones.me-4(:href="obtenerLink('downloads/2000_codigopenal_colombia.pdf')" target="_blank" type="application/pdf")
                       span Descargar&nbsp;&nbsp;

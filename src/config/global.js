@@ -37,7 +37,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Fundamentos Legales en primeros auxilios',
+        titulo: 'Fundamentos legales en primeros auxilios',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -321,24 +321,24 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Líder equipo Diseño curricular',
+        cargo: 'Líder equipo diseño curricular',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Juan Carlos García Vargas',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro:
           'Regional Distrito Bogotá - Centro de Tecnologías del Transporte',
       },
       {
         nombre: 'Ana Vela Rodríguez Velasquez ',
-        cargo: 'Diseñadora Instruccional ',
+        cargo: 'Diseñadora instruccional ',
         centro: 'Regional Distrito Capital - Centro de Gestión Industrial.',
       },
       {
         nombre: 'Alix Cecilia Chinchilla Rueda',
-        cargo: 'Asesor Metodológico',
+        cargo: 'Asesor metodológico',
         centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
       },
       {
@@ -373,8 +373,8 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Yuli Marcela Gómez Tarazona',
+        cargo: 'Validación contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
