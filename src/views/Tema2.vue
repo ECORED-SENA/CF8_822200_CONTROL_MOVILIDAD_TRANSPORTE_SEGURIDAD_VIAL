@@ -72,48 +72,72 @@
       SlyderF(columnas="col-lg-6 col-xl-4")
         .BGR05.p-4
           .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/tema2/img04.svg' alt='AvatarTop')
+            .col-lg-7.col-4
+              img(src='@/assets/curso/tema2/img04.png' alt='AvatarTop')
           .h4.text-center CABEZA
           p.text-center.mb-0 Se revisan heridas o contusiones debajo del cabello y la cara, hemorragias, sangrado por los oídos, lesiones en los ojos y aspecto general del rostro.
         .BGR05.p-4
           .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/tema2/img05.svg' alt='AvatarTop')
+            .col-lg-7.col-4
+              img(src='@/assets/curso/tema2/img05.png' alt='AvatarTop')
           .h4.text-center CUELLO
           p.text-center.mb-0 Tocarlo con suavidad, en caso de tener que movilizar a los pacientes se tiene que mantener en el mismo sentido de la cabeza y tronco, revisar pulso carotídeo y aflojar las prendas de vestir.
         .BGR05.p-4
           .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/tema2/img06.svg' alt='AvatarTop')
+            .col-lg-7.col-4
+              img(src='@/assets/curso/tema2/img06.png' alt='AvatarTop')
           .h4.text-center TÓRAX
           p.text-center.mb-0 Revisar heridas o deformaciones de la caja torácica y revisar movimientos respiratorios.
         .BGR05.p-4
           .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/tema2/img07.svg' alt='AvatarTop')
+            .col-lg-7.col-4
+              img(src='@/assets/curso/tema2/img07.png' alt='AvatarTop')
           .h4.text-center ABDOMEN
           p.text-center.mb-0 Revisar heridas, localizar dolores presentes, palpar si el abdomen está duro o depresible, prever posibles lesiones internas.
         .BGR05.p-4
           .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/tema2/img08.svg' alt='AvatarTop')
+            .col-lg-7.col-4
+              img(src='@/assets/curso/tema2/img08.png' alt='AvatarTop')
           .h4.text-center EXTREMIDADES
           p.text-center.mb-0 Evitar moverlas, compararlas visualmente, buscar heridas, deformaciones, inflamaciones, explorar sensibilidad y movimientos.
         .BGR05.p-4
           .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/tema2/img09.svg' alt='AvatarTop')
+            .col-lg-7.col-4
+              img(src='@/assets/curso/tema2/img09.png' alt='AvatarTop')
           .h4.text-center ESPALDA
           p.text-center.mb-0 Revisar si hay posibles fracturas vertebrales o lesiones en la médula, etc.
     
-    .row.justify-content-center.align-items-end.mb-5
-      .col-lg-5.col-10.px-0.mb-lg-0.mb-4(data-aos="fade-right")
+    .row.justify-content-center.align-items-end.BGIMG04.mb-5
+      .col-lg-5.col-10.px-0.d-none.d-lg-flex(data-aos="fade-right")
         img(src="@/assets/curso/tema2/img10.png")
-      .col-lg-7.px-0(data-aos="fade-left")
+      .col-lg-7.p-4(data-aos="fade-left")
         p.ms-4 Cuidar la vida del paciente es importante, por lo que siempre hay que estar monitoreando los signos vitales, como: 
-        figure
-          img(src="@/assets/curso/tema2/img11.svg")
+        .row.justify-content-center.align-items-end
+          .col-xxl-4.col-xl-5.col-lg-6.col-8
+            .mb-4.d-flex
+              .d-flex.flex-wrap.align-items-center.BGR10.pe-4
+                img(src='@/assets/curso/tema2/img25.svg' style="max-width: 50px; margin-left: -16px;")
+                h5.mb-0.ps-3.text-center El pulso
+          .col-xxl-4.col-xl-5.col-lg-6.col-8
+            .mb-4.d-flex
+              .d-flex.flex-wrap.align-items-center.BGR10.pe-4
+                img(src='@/assets/curso/tema2/img26.svg' style="max-width: 50px; margin-left: -16px;")
+                h5.mb-0.ps-3.text-center La respiración
+          .col-xxl-4.col-xl-5.col-lg-6.col-8
+            .mb-4.d-flex
+              .d-flex.flex-wrap.align-items-center.BGR10.pe-4
+                img(src='@/assets/curso/tema2/img27.svg' style="max-width: 50px; margin-left: -16px;")
+                h5.mb-0.ps-3.text-center La temperatura
+          .col-xxl-4.col-xl-5.col-lg-6.col-8
+            .mb-4.d-flex
+              .d-flex.flex-wrap.align-items-center.BGR10.pe-4
+                img(src='@/assets/curso/tema2/img28.svg' style="max-width: 50px; margin-left: -16px;")
+                h5.mb-0.ps-3.text-center La tensión arterial
+          .col-xxl-4.col-xl-5.col-lg-6.col-8
+            .d-flex
+              .d-flex.flex-wrap.align-items-center.BGR10.pe-4
+                img(src='@/assets/curso/tema2/img29.svg' style="max-width: 50px; margin-left: -16px;")
+                h5.mb-0.ps-3.text-center El reflejo pupilar
         
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
       h5 Figura 3
@@ -182,16 +206,15 @@
     
     p Estas técnicas tienen como objetivo y en caso de emergencia preservar la vida cuando el paciente no respira o el corazón ha dejado de palpitar, como consecuencia de eventos como: una descarga eléctrica , un ataque cardíaco o ahogamiento. A continuación, describiremos algunas:
 
-    .row.align-items-center.img03.mb-4(data-aos="fade-right")
-      .col-lg-1.col-2.img02
-        img.w-75(src="@/assets/curso/temas/img03.svg")
-      .col-auto.BG06.p-2
-        .h4.ms-5.mb-0.text-white RCP
+    .mb-4.d-flex
+      .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: black; border-radius: 5px;")
+        img(src='@/assets/curso/temas/img03.svg' style="max-width: 32px; margin-left: -16px;" data-aos="fade-right")
+        h4.col.ps-3.mb-0.text-white(data-aos="fade-right") RCP
     
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src="@/assets/curso/tema2/img21.png")
-      .col-lg-7(data-aos="fade-left")
+      .col-lg-8(data-aos="fade-left")
         p Por sus siglas Reanimación Cardio respiratoria o RCP  permite mantener el flujo de sangre con oxígeno hacia el cerebro y otros órganos vitales hasta que la persona pueda ser atendida adecuadamente, pues si el corazón deja de bombear sangre oxigenada puede causar daño cerebral irreversible en muy pocos minutos, los pasos son los siguientes:
         ul.lista-ul--color
           li
@@ -204,17 +227,16 @@
             <i class="fas fa-check" style="color:#FD9827"></i>
             | Reanudar las compresiones del tórax para continuar el impulso de sangre a los órganos.
 
-    .row.align-items-center.img03.mb-4(data-aos="fade-right")
-      .col-lg-1.col-2.img02
-        img.w-75(src="@/assets/curso/temas/img03.svg")
-      .col-auto.BG06.p-2
-        .h4.ms-5.mb-0.text-white Maniobra de Heimlich
+    .mb-4.d-flex
+      .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: black; border-radius: 5px;")
+        img(src='@/assets/curso/temas/img03.svg' style="max-width: 32px; margin-left: -16px;" data-aos="fade-right")
+        h4.col.ps-3.mb-0.text-white(data-aos="fade-right") Maniobra de Heimlich
 
 
-    .row.justify-content-center.align-items-end.mb-5
-      .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-6.mb-lg-0.mb-4(data-aos="fade-right")
         img(src="@/assets/curso/tema2/img22.png")
-      .col-lg-7(data-aos="fade-left")
+      .col-lg-6(data-aos="fade-left")
         p Se aplica en casos de Atragantamientos o asfixias y se realiza de la siguiente manera:
         ul.lista-ul--color
           li
@@ -238,7 +260,7 @@
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-12.d-none.d-lg-flex
-        ImagenInfografica.color-secundario.mb-5
+        ImagenInfografica.color-secundario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema2/img23.svg')
@@ -255,7 +277,7 @@
             .h5.mb-2 Inmovilización de extremidades
             p.mb-0 Se da en casos de fractura de extremidades para no complicar la condición del miembro afectado, para esto se debe cortar la ropa de la zona, se despeja totalmente y se selecciona la férula adecuada en cada caso.
       .col-12.d-lg-none.d-flex
-        ImagenInfografica.color-secundario.mb-5
+        ImagenInfografica.color-secundario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema2/img24.svg')
@@ -273,10 +295,10 @@
             p.mb-0 Se da en casos de fractura de extremidades para no complicar la condición del miembro afectado, para esto se debe cortar la ropa de la zona, se despeja totalmente y se selecciona la férula adecuada en cada caso.
 
     .BGR03(data-aos="flip-up")
-      .row.align-items-center
-        .col-lg-1.col-2
+      .row.justify-content-center.align-items-center
+        .col-lg-2.col-3.p-lg-0.p-3
           img(src="@/assets/curso/temas/img02.svg")
-        .col.p-4
+        .col-lg.p-4
           .h4 Importante
           p.mb-0 #[b No se debe inmovilizar] a un paciente cuando los traumatismos sean fuertes y se observe que no tiene dolor en la línea media de la espalda o no tiene signos neurológicos, entre otras. La inmovilización debe realizarla el personal capacitado en el lugar del accidente.
 

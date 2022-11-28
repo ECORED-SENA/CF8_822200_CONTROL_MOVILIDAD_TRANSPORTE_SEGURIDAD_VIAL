@@ -7,11 +7,11 @@
         span 6
       h1 Primer respondiente y técnicas de inmovilización
     
-    .cajon-b.color-acento-contenido.mb-5(data-aos="flip-up")
+    .cajon-b.color-acento-contenido.p-3.mb-5(data-aos="flip-up")
       .row.align-items-center
-        .col-lg-1.col-2.p-3
+        .col-xl-1.col-md-2.col-3
           img(src="@/assets/curso/tema6/img01.svg")
-        .col-lg-11
+        .col-lg-10
           p.mb-0 En los casos en los que se presentan situaciones que involucran una persona accidentada que requiera atención inmediata, antes de que se presente personal profesional que pueda brindarle atención médica, es fundamental que la persona que vaya a prestar los primeros auxilios tenga presente que la evolución médica de la persona lesionada dependerá de la forma de reacción, por lo cual es importante tener en cuenta los siguientes puntos clave:
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
@@ -19,55 +19,55 @@
         .BGR05C.p-4
           .row.justify-content-center.mb-3
             .col-6
-              img(src='@/assets/curso/tema6/img02.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema6/img02.png' alt='AvatarTop')
           .h4.text-center PSICOLÓGICO
           p.text-center.mb-0 En caso de requerir los primeros auxilios con urgencia es importante conservar la calma.
         .BGR05C.p-4
           .row.justify-content-center.mb-3
             .col-6
-              img(src='@/assets/curso/tema6/img03.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema6/img03.png' alt='AvatarTop')
           .h4.text-center RESPETAR LA VIDA
           p.text-center.mb-0 La prioridad es preservar la vida del accidentado.
         .BGR05C.p-4
           .row.justify-content-center.mb-3
             .col-6
-              img(src='@/assets/curso/tema6/img04.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema6/img04.png' alt='AvatarTop')
           .h4.text-center MOVILIDAD
           p.text-center.mb-0 De no ser necesario no se deberá mover a la persona accidentada.
         .BGR05C.p-4
           .row.justify-content-center.mb-3
             .col-6
-              img(src='@/assets/curso/tema6/img05.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema6/img05.png' alt='AvatarTop')
           .h4.text-center EVITAR EXPOSICIONES
           p.text-center.mb-0 Se debe evitar que el accidentado se vea expuesto a nuevas infecciones o a nuevas lesiones.
         .BGR05C.p-4
           .row.justify-content-center.mb-3
             .col-6
-              img(src='@/assets/curso/tema6/img06.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema6/img06.png' alt='AvatarTop')
           .h4.text-center PROHIBICIONES
           p.text-center.mb-0 No dar alimentos, ni bebidas al paciente.
         .BGR05C.p-4
           .row.justify-content-center.mb-3
             .col-6
-              img(src='@/assets/curso/tema6/img07.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema6/img07.png' alt='AvatarTop')
           .h4.text-center MEDICAMENTOS
           p.text-center.mb-0 No medicar al accidentado, si no es una persona del servicio de salud con certificación profesional.
         .BGR05C.p-4
           .row.justify-content-center.mb-3
             .col-6
-              img(src='@/assets/curso/tema6/img08.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema6/img08.png' alt='AvatarTop')
           .h4.text-center ESPERAR AL PROFESIONAL
           p.text-center.mb-0 Hacer solo lo estrictamente necesario hasta que se presente un profesional que pueda brindar los primeros auxilios.
         .BGR05C.p-4
           .row.justify-content-center.mb-3
             .col-6
-              img(src='@/assets/curso/tema6/img09.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema6/img09.png' alt='AvatarTop')
           .h4.text-center TRASLADO
           p.text-center.mb-0 Se debe realizar un traslado adecuado, tenga en cuenta que debe conocer el estado del paciente para poder movilizarlo y no causarle lesiones mayores.
         .BGR05C.p-4
           .row.justify-content-center.mb-3
             .col-6
-              img(src='@/assets/curso/tema6/img10.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema6/img10.png' alt='AvatarTop')
           .h4.text-center RESPONSABILIDAD LEGAL
           p.text-center.mb-0 Si no sabe cómo proceder, abstenerse de actuar, llame a emergencias.
 
@@ -89,7 +89,7 @@
     p A continuación, encontrará un video sobre las responsabilidades del primer respondiente en Colombia, y cuál debe ser el proceder para evaluar una escena, comenzar la revisión del o los lesionados o pacientes y activar el sistema de emergencias médicas con el fin de salvar las vidas de las personas involucradas, este proceso es de carácter voluntario, pero todo el contexto legal debe ser aprendido con anterioridad, por lo que le invito a ver el siguiente video:
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-lg-6.col-10.mb-lg-0.mb-4
+      .col-lg-6.mb-lg-0.mb-4
         .tarjeta.color-primario.p-4
           .row.justify-content-center
             .col-lg-2.col-3
@@ -103,7 +103,7 @@
                 .col-lg-4.col-5
                   a.boton.color-acento-botones.me-4(href="https://www.youtube.com/embed/T8mBPOxcQrc" target="_blank")
                     span Ver video
-      .col-lg-6.col-10
+      .col-lg-6
         .tarjeta.color-primario.p-4
           .row.justify-content-center
             .col-lg-2.col-3

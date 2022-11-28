@@ -108,14 +108,13 @@
       .row.align-items-center
         .col-lg-11
           p.mb-0 Para poder realizar una adecuada caracterización de las heridas es importante tener en cuenta que pueden clasificarse según el espesor de los tejidos afectados, según la dirección, según la forma, según los agentes que la provocan y según su grado de contaminación; de acuerdo a lo anterior, a continuación, se realizará la descripción de las clasificaciones mencionadas.
-        .col-lg-1.col-2.p-3
+        .col-lg-1.col-2.p-3.d-none.d-lg-flex
           img(src="@/assets/curso/tema3/img13.svg")
     
-    .row.align-items-center.img03.mb-4(data-aos="fade-right")
-      .col-lg-1.col-2.img02
-        img.w-75(src="@/assets/curso/temas/img03.svg")
-      .col-auto.BG06.p-2
-        .h4.ms-5.mb-0.text-white Heridas según el espesor de los tejidos afectados
+    .mb-4.d-flex
+      .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: black; border-radius: 5px;")
+        img(src='@/assets/curso/temas/img03.svg' style="max-width: 32px; margin-left: -16px;" data-aos="fade-right")
+        h4.col.ps-3.mb-0.text-white(data-aos="fade-right") Heridas según el espesor de los tejidos afectados
 
     p En el momento de evaluar el espesor de una herida se deben tener en cuenta las siguientes características:
 
