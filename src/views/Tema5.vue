@@ -208,7 +208,7 @@
           .row.align-items-center
             .col-lg-2.col-3.p-lg-0.p-3
               img(src="@/assets/curso/temas/img02.svg")
-            .col-lg.p-4
+            .col-lg.p-lg-4.p-5
               .h4 ¡Importante!
               p Generalmente el tensiómetro (aparato que mide la presión arterial) muestra primero la presión sistólica (número mayor) y luego la presión diastólica (número menor), así: #[b 90/60], lo cual quiere decir:
               p Que la #[b presión sistólica] es de 90 y la #[b presión diastólica] es de 60.
@@ -228,7 +228,7 @@
           .row.align-items-center
             .col-lg-2.col-3.p-lg-0.p-3
               img(src="@/assets/curso/temas/img02.svg")
-            .col-lg.p-4
+            .col-lg.p-lg-4.p-5
               .h4 ¡Importante!
               p Si las pupilas están muy dilatadas el lesionado puede estar presentando #[em shock] o una hemorragia severa y si las pupilas no están de igual tamaño puede indicar una parálisis o una herida en la cabeza.
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")

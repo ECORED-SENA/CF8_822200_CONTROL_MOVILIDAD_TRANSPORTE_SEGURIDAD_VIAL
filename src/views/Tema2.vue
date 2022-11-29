@@ -296,9 +296,9 @@
 
     .BGR03(data-aos="flip-up")
       .row.justify-content-center.align-items-center
-        .col-lg-2.col-3.p-lg-0.p-3
+        .col-lg-1.col-3.p-lg-0.p-3
           img(src="@/assets/curso/temas/img02.svg")
-        .col-lg.p-4
+        .col-lg.p-lg-4.p-5
           .h4 Importante
           p.mb-0 #[b No se debe inmovilizar] a un paciente cuando los traumatismos sean fuertes y se observe que no tiene dolor en la línea media de la espalda o no tiene signos neurológicos, entre otras. La inmovilización debe realizarla el personal capacitado en el lugar del accidente.
 

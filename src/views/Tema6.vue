@@ -92,7 +92,7 @@
       .col-lg-6.mb-lg-0.mb-4
         .tarjeta.color-primario.p-4
           .row.justify-content-center
-            .col-lg-2.col-3
+            .col-sm-2.col-3
               img(src="@/assets/curso/temas/img01.svg")
             .col-lg-10.col-9
               .row.justify-content-around.row.align-items-center
@@ -106,7 +106,7 @@
       .col-lg-6
         .tarjeta.color-primario.p-4
           .row.justify-content-center
-            .col-lg-2.col-3
+            .col-sm-2.col-3
               img(src="@/assets/curso/temas/img01.svg")
             .col-lg-10.col-9
               .row.justify-content-around.row.align-items-center

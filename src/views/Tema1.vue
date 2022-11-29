@@ -193,7 +193,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-2.col-3.p-lg-0.p-3
               img(src="@/assets/curso/temas/img02.svg")
-            .col-lg.p-4
+            .col-lg.p-lg-4.p-5
               .h4 Importante
               p.mb-0 Cuando se implementa y entra en vigencia el #[b Código de Procedimiento Penal a través de la Ley 906 de 2004], este da un avance en la manera en que las víctimas interactúan en los procesos, ya que es considerada un interviniente dentro de los procesos penales y por lo tanto se le dota de las mismas garantías y elementos que a los otros intervinientes en el proceso, como lo son los abogados de la defensa, la Fiscalía, o los causantes del daño, esto es relevante sobre todo cuando se vea afectada su integridad personal y la de su familiar.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
@@ -257,7 +257,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-2.col-3.p-lg-0.p-3
               img(src="@/assets/curso/temas/img02.svg")
-            .col-lg.p-4
+            .col-lg.p-lg-4.p-5
               .h4 Clave
               p.mb-0 En casos como las #[b lesiones personales culposas] en accidente de tránsito, la inclusión en el proceso de las víctimas seda desde antes de iniciar formalmente el proceso, ya que existe la posibilidad de conciliar el daño ocasionado, #[b evitando el proceso penal], inclusive se puede realizar una conciliación extraprocesal en las cuales en muchas ocasiones existe apoyo de las compañías aseguradoras en calidad de terceros civilmente responsables.
 
