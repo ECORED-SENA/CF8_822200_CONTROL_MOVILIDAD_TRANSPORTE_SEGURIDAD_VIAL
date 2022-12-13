@@ -35,7 +35,7 @@
               img(src='@/assets/curso/tema5/img04.png')
           .h5.mb-0 <span style="color:#000">El reflejo pupilar </span>
 
-    p Previ amente a brindar los primeros auxilios se deben revisar y controlar los signos vitales del lesionado, ya que deberá comunicar esta información a los profesionales de la salud que lleguen a atender la emergencia.
+    p Previamente a brindar los primeros auxilios se deben revisar y controlar los signos vitales del lesionado, ya que deberá comunicar esta información a los profesionales de la salud que lleguen a atender la emergencia.
     p.mb-5 A continuación, se indica cómo se deben tomar los signos anteriormente mencionados:
 
     .mb-4.d-flex
@@ -70,7 +70,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
-          h5 Tabla 2
+          h5 Tabla 1
           span Frecuencia Cardiaca según la edad
         .tabla-a.color-secundario
           table
@@ -131,7 +131,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
-          h5 Tabla 3
+          h5 Tabla 2
           span Frecuencia Respiratoria
         .tabla-a.color-secundario
           table

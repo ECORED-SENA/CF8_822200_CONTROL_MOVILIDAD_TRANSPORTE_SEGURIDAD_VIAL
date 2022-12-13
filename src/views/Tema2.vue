@@ -14,7 +14,7 @@
         .col-lg-11
           p.mb-0 Es muy importante que las personas usuarias de las infraestructuras de transporte tengan nociones en atención a primeros  auxilios, mientras llegan los cuerpos especializados en este tipo de atenciones, en razón a ello, se presentan  una serie de técnicas que se aplican a las víctimas de accidentes, lesionados o en caso de enfermedades repentinas, como primera asistencia, las cuales son universales y que propenden siempre por preservar la vida.
     
-    .h4.text-center <span style="background-color:#FFD817; padding: 5px">¿Qué se debe hacer en un accidente de tránsito ?</span>
+    .h4.text-center <span style="background-color:#FFD817; padding: 5px">¿Qué se debe hacer en un accidente de tránsito?</span>
 
     figure(data-aos="zoom-in")
       .video
@@ -24,7 +24,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.1 Técnicas de valoración
     
-    p.mb-5 La técnica  consiste en realizar una valoración de manera global del estado del paciente, determinando la gravedad o complejidad de sus lesiones, una vez determinada esta situación se procederá a adoptar las medidas necesarias ajustada a la condición de la víctima , sea esta primaria o secundaria, según sus características. 
+    p.mb-5 La técnica  consiste en realizar una valoración de manera global del estado del paciente, determinando la gravedad o complejidad de sus lesiones, una vez determinada esta situación se procederá a adoptar las medidas necesarias ajustada a la condición de la víctima, sea esta primaria o secundaria, según sus características. 
 
     .row.justify-content-center.mb-4
       .col-lg-5.col-10.mb-lg-0.mb-5(data-aos="fade-right")
@@ -140,7 +140,7 @@
                 h5.mb-0.ps-3.text-center El reflejo pupilar
         
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
-      h5 Figura 3
+      h5 Figura 1
       span Técnicas de valoración
     
     .BGIMG01.p-md-5.p-4.mb-4(data-aos="zoom-in")
@@ -204,7 +204,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.2 Técnicas de reanimación
     
-    p Estas técnicas tienen como objetivo y en caso de emergencia preservar la vida cuando el paciente no respira o el corazón ha dejado de palpitar, como consecuencia de eventos como: una descarga eléctrica , un ataque cardíaco o ahogamiento. A continuación, describiremos algunas:
+    p Estas técnicas tienen como objetivo y en caso de emergencia preservar la vida cuando el paciente no respira o el corazón ha dejado de palpitar, como consecuencia de eventos como: una descarga eléctrica, un ataque cardíaco o ahogamiento. A continuación, describiremos algunas:
 
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: black; border-radius: 5px;")
@@ -215,7 +215,7 @@
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src="@/assets/curso/tema2/img21.png")
       .col-lg-8(data-aos="fade-left")
-        p Por sus siglas Reanimación Cardio respiratoria o RCP  permite mantener el flujo de sangre con oxígeno hacia el cerebro y otros órganos vitales hasta que la persona pueda ser atendida adecuadamente, pues si el corazón deja de bombear sangre oxigenada puede causar daño cerebral irreversible en muy pocos minutos, los pasos son los siguientes:
+        p Por sus siglas Reanimación Cardio Respiratoria o RCP  permite mantener el flujo de sangre con oxígeno hacia el cerebro y otros órganos vitales hasta que la persona pueda ser atendida adecuadamente, pues si el corazón deja de bombear sangre oxigenada puede causar daño cerebral irreversible en muy pocos minutos, los pasos son los siguientes:
         ul.lista-ul--color
           li
             <i class="fas fa-check" style="color:#FD9827"></i>
@@ -250,7 +250,7 @@
             | Coloca tu otra mano sobre tu puño y haz una presión rápida contra el abdomen de la persona. La presión debe hacerse hacia adentro y hacia arriba.
           li
             <i class="fas fa-check" style="color:#FD9827"></i>
-            | Repite las presiones hasta que el objeto salga o la persona pueda volver a respirar . 
+            | Repite las presiones hasta que el objeto salga o la persona pueda volver a respirar. 
 
     separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")

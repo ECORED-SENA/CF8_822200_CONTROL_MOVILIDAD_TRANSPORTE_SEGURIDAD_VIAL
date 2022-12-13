@@ -46,7 +46,7 @@
         h4.col.ps-3.mb-0.text-white(data-aos="fade-right") Semiología
     
     .BGIMG03.px-md-5.px-4.pb-4.mb-4
-      p.mb-5 La semiología es la encargada del estudio de los signos y síntomas presentados por las enfermedades, que permite por medio de estos establecer un diagnóstico,Olivero R &amp; Barraez c. ( 2011)., en la parte médica se pueden distinguir dos tipos:
+      p.mb-5 La semiología es la encargada del estudio de los signos y síntomas presentados por las enfermedades, que permite por medio de estos establecer un diagnóstico,Olivero R &amp; Barraez C. (2011)., en la parte médica se pueden distinguir dos tipos:
       .row.justify-content-center(data-aos="fade-right")
         .col-lg-6
           img(src="@/assets/curso/tema4/img03.svg")

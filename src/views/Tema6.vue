@@ -71,7 +71,7 @@
           .h4.text-center RESPONSABILIDAD LEGAL
           p.text-center.mb-0 Si no sabe cómo proceder, abstenerse de actuar, llame a emergencias.
 
-    p Por último, se debe realizar un traslado adecuado, por lo que es importante resaltar que este solo se debe efectuar en casos en casos extremos en los que el accidentado se encuentre en riesgo de muerte como incendios, electrocución, asfixia, inundación  o atrapamiento, entre otros.
+    p Por último, se debe realizar un traslado adecuado, por lo que es importante resaltar que este solo se debe efectuar en casos extremos en los que el accidentado se encuentre en riesgo de muerte como incendios, electrocución, asfixia, inundación  o atrapamiento, entre otros.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
@@ -101,7 +101,7 @@
                   p Primer respondiente, gente que ayuda.
                   p.mb-0 Video de la Alcaldía de Bogotá.
                 .col-lg-4.col-5
-                  a.boton.color-acento-botones.me-4(href="https://www.youtube.com/embed/T8mBPOxcQrc" target="_blank")
+                  a.boton.color-acento-botones.me-4(href="https://www.youtube.com/watch?v=J4mDxdKaLRw" target="_blank")
                     span Ver video
       .col-lg-6
         .tarjeta.color-primario.p-4

@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.svg")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Primeros Auxilios
+          h2 Primer respondiente
         p.mb-4 Analizar los elementos necesarios para prestar primeros auxilios a un paciente en caso de un accidente vehicular según principios de primer respondiente y protocolos de salud vigentes en Colombia.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
